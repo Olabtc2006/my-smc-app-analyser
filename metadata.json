@@ -1,0 +1,6 @@
+{
+  "name": "Elite AI SMC Trading Analyst",
+  "description": "Institutional-grade Smart Money Concepts (SMC) & ICT trading analyst. Analyze chart screenshots for market structure shifts, liquidity pools, FVGs, premiums, and run trade probabilistic evaluations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
